@@ -5,7 +5,7 @@
  * by Anto.io
  */
 
-#include <AntoIO.h>
+#include <AntoIO32.h>
 
 /* see NodeMCU v1.0 pinout for more GPIO port details. */
 #define LED0 16 // D0
